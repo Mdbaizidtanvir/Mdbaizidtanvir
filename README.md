@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Full Stack Web Developer</h1>
-<h3 align="center">A passionate Front-end developer</h3>
-
-- 🔭 I’m currently working on **candlestick patterns recognition**
+<h3 align="center">A passionate front-end developer dedicated to creating engaging and user-friendly web experiences.</h3>
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 🤝 I’m looking for help with **Django**
-
-- 💬 Ask me about **Django, Flask, Nextjs , Nodejs**
+- 💬 Ask me about **Django, Flask, Nextjs , Nodejs , PHP , Opencv , Reactjs , Web scraping automation , REST API **
 
 - ⚡ Fun fact **I Think i am funny**
 
